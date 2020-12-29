@@ -13,4 +13,3 @@
 ## Для отзывов и предложений:
 [ВКонтакте](https://vk.com/blackcat_prog)  
 [Telegram](https://t.me/nkttmfe)  
-Почта - blackcatprog@gmail.com
