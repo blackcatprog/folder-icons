@@ -14,6 +14,7 @@ System - иконки папок для системы
 
 <p align="center">
   
-![photoshop](Adobe/photoshop.ico) ![u_torrent](Programs/u_torrent.ico) ![python](Languages%20Programming/python.ico)
+![photoshop](Adobe/photoshop.ico) ![games](Games/rockstar_launcher.ico) ![python](Languages%20Programming/python.ico) ![os](OS/ubuntu.ico)
+![other](Other/youtube.ico) ![u_torrent](Programs/unity.ico) ![system](System/video.ico)
 
 </p>
