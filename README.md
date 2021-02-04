@@ -10,5 +10,7 @@ System - иконки папок для системы
 <h2 align="center">Примеры иконок:</h2>
 
 <p align="center">
+  
 ![photoshop](Adobe/photoshop.ico) ![u_torrent](Programs/u_torrent.ico) ![python](Languages%20Programming/python.ico)
+
 </p>
