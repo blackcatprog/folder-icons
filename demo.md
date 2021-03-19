@@ -4,7 +4,7 @@
 ## Оглавление
 - [Adobe](#Adobe) - иконки папок для программ от компании Adobe
 - [Games](#Games) - иконки папок для игр
-- [Programming Languages](#Programming Languages)  - иконки папок для языков программирования
+- [Programming Languages](#Programming)  - иконки папок для языков программирования
 - [OS](#OS) - иконки папок для операционных систем
 - [Other](#Other) - иконки папок не относящиеся ни к одной категории
 - [Programs](#Programs) - иконки папок для программ
@@ -18,7 +18,7 @@
 
 [:arrow_up:Оглавление](#Оглавление)
 
-## Programming Languages
+## Programming
 
 [:arrow_up:Оглавление](#Оглавление)
 
