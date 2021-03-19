@@ -17,6 +17,7 @@ System - иконки папок для системы
 <h2 align="center">Примеры иконок:</h2>
 
 <p align="center">
+<strong>Кликните <a href="demo.md">сюда</a>, чтобы посмотреть демоверсии иконок</strong>
   
 ![photoshop](Adobe/photoshop.ico) ![python](Languages%20Programming/python.ico)
 ![os](OS/ubuntu.ico) ![other](Other/youtube.ico) ![u_torrent](Programs/unity.ico)
