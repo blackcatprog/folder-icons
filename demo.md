@@ -11,11 +11,12 @@
 - [System](#System)  - иконки папок для системы
 
 ## Adobe
-<a href="./Adobe/after_effects.ico" title="" download><img src="./Adobe/after_effects.ico" alt="After Effects" width="202"></a>
-<a href="./Adobe/after_effects.ico" title="" download><img src="./Adobe/after_effects.ico" alt="After Effects" width="202"></a>
-<a href="./Adobe/after_effects.ico" title="" download><img src="./Adobe/after_effects.ico" alt="After Effects" width="202"></a>
-<a href="./Adobe/after_effects.ico" title="" download><img src="./Adobe/after_effects.ico" alt="After Effects" width="202"></a>
-<a href="./Adobe/after_effects.ico" title="" download><img src="./Adobe/after_effects.ico" alt="After Effects" width="202"></a>
+<a href="./Adobe/after_effects.ico" title="" download><img src="./Adobe/after_effects.ico" alt="After Effects" width="180"></a>
+<a href="./Adobe/after_effects.ico" title="" download><img src="./Adobe/after_effects.ico" alt="After Effects" width="180"></a>
+<a href="./Adobe/after_effects.ico" title="" download><img src="./Adobe/after_effects.ico" alt="After Effects" width="180"></a>
+<a href="./Adobe/after_effects.ico" title="" download><img src="./Adobe/after_effects.ico" alt="After Effects" width="180"></a>
+<a href="./Adobe/after_effects.ico" title="" download><img src="./Adobe/after_effects.ico" alt="After Effects" width="180"></a><br>
+
 [:arrow_up:Оглавление](#Оглавление)
 
 ## Games
