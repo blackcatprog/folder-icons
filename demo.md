@@ -1,5 +1,5 @@
 # Демоверсии иконок
-> Кликните на иконку, чтобы скачать её.
+_**Кликните на иконку, чтобы скачать её.**_
 
 ## Оглавление
 - [Adobe](#Adobe) - иконки папок для программ от компании Adobe
@@ -11,11 +11,24 @@
 - [System](#System)  - иконки папок для системы
 
 ## Adobe
-<a href="./Adobe/after_effects.ico" title="" download><img src="./Adobe/after_effects.ico" alt="After Effects" width="180"></a>
-<a href="./Adobe/after_effects.ico" title="" download><img src="./Adobe/after_effects.ico" alt="After Effects" width="180"></a>
-<a href="./Adobe/after_effects.ico" title="" download><img src="./Adobe/after_effects.ico" alt="After Effects" width="180"></a>
-<a href="./Adobe/after_effects.ico" title="" download><img src="./Adobe/after_effects.ico" alt="After Effects" width="180"></a>
-<a href="./Adobe/after_effects.ico" title="" download><img src="./Adobe/after_effects.ico" alt="After Effects" width="180"></a><br>
+<table>
+<tbody>
+  <tr>
+    <td><a href="./Adobe/after_effects.ico" title="After Effects" download><img src="./Adobe/after_effects.ico" alt="After Effects" width="180"></a></td>
+    <td><a href="./Adobe/after_effects.ico" title="After Effects" download><img src="./Adobe/after_effects.ico" alt="After Effects" width="180"></a></td>
+    <td><a href="./Adobe/after_effects.ico" title="After Effects" download><img src="./Adobe/after_effects.ico" alt="After Effects" width="180"></a></td>
+    <td><a href="./Adobe/after_effects.ico" title="After Effects" download><img src="./Adobe/after_effects.ico" alt="After Effects" width="180"></a></td>
+    <td><a href="./Adobe/after_effects.ico" title="After Effects" download><img src="./Adobe/after_effects.ico" alt="After Effects" width="180"></a></td>
+  </tr>
+  <tr>
+    <td align="center">After Effects</td>
+    <td align="center">After Effects</td>
+    <td align="center">After Effects</td>
+    <td align="center">After Effects</td>
+    <td align="center">After Effects</td>
+  </tr>
+</tbody>
+</table>
 
 [:arrow_up:Оглавление](#Оглавление)
 
