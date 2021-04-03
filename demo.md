@@ -21,7 +21,7 @@ _**Кликните на иконку, чтобы скачать её.**_
     <td><a href="./Adobe/after_effects.ico" title="After Effects" download><img src="./Adobe/after_effects.ico" alt="After Effects" width="180"></a></td>
   </tr>
   <tr>
-    <td align="center">After Effects</td>
+    <td align="center"><a href="./Adobe/after_effects.ico" title="After Effects" download>After Effects</a></td>
     <td align="center">After Effects</td>
     <td align="center">After Effects</td>
     <td align="center">After Effects</td>
