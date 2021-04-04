@@ -113,6 +113,46 @@ _**Кликните на иконку, чтобы скачать её.**_
 [:arrow_up:Оглавление](#Оглавление)
 
 ## Programming
+<table>
+<tbody>
+  <tr>
+    <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/Languages%20Programming/c.ico"
+      title="C"><img src="./Languages Programming/c.ico" alt="C" width="180"></a></td>
+    <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/Languages%20Programming/c%23.ico"
+      title="C#"><img src="./Languages Programming/c#.ico" alt="C#" width="180"></a></td>
+    <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/Languages%20Programming/c%2B%2B.ico"
+      title="C++"><img src="./Languages Programming/c++.ico" alt="C++" width="180"></a></td>
+    <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/Languages%20Programming/css.ico"
+      title="CSS"><img src="./Languages Programming/css.ico" alt="CSS" width="180"></a></td>
+    <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/Languages%20Programming/html.ico"
+      title="Rust"><img src="./Languages Programming/html.ico" alt="Rust" width="180"></a></td>
+  </tr>
+  <tr>
+    <td align="center">C</td>
+    <td align="center">C#</td>
+    <td align="center">C++</td>
+    <td align="center">CSS 3</td>
+    <td align="center">HTML 5</td>
+  </tr>
+
+  <tr>
+    <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/Languages%20Programming/java_script.ico"
+      title="Java Script"><img src="./Languages Programming/java_script.ico" alt="Java Script" width="180"></a></td>
+    <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/Languages%20Programming/java.ico"
+      title="Java"><img src="./Languages Programming/java.ico" alt="Java" width="180"></a></td>
+    <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/Languages%20Programming/php.ico"
+      title="PHP"><img src="./Languages Programming/php.ico" alt="PHP" width="180"></a></td>
+    <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/Languages%20Programming/python.ico"
+      title="Python"><img src="./Languages Programming/python.ico" alt="Python" width="180"></a></td>
+  </tr>
+  <tr>
+    <td align="center">Java Script</td>
+    <td align="center">Java</td>
+    <td align="center">PHP</td>
+    <td align="center">Python</td>
+  </tr>
+</tbody>
+</table>
 
 [:arrow_up:Оглавление](#Оглавление)
 
