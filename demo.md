@@ -216,6 +216,143 @@ _**Кликните на иконку, чтобы скачать её.**_
 [:arrow_up:Оглавление](#Оглавление)
 
 ## Programs
+<table>
+<tbody>
+  <tr>
+    <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/Programs/4k_video_downloader.ico"
+      title="4k Video Downloader"><img src="./Programs/4k_video_downloader.ico" alt="4k Video Downloader" width="180"></a></td>
+    <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/Programs/aimp.ico"
+      title="AIMP"><img src="./Programs/aimp.ico" alt="AIMP" width="180"></a></td>
+    <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/Programs/android_studio.ico"
+      title="Android Studio"><img src="./Programs/android_studio.ico" alt="Android Studio" width="180"></a></td>
+    <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/Programs/avira.ico"
+      title="Avira"><img src="./Programs/avira.ico" alt="Avira" width="180"></a></td>
+    <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/Programs/bit_torrent.ico"
+      title="Bit Torrent"><img src="./Programs/bit_torrent.ico" alt="Bit Torrent" width="180"></a></td>
+  </tr>
+  <tr>
+    <td align="center">4k Video Downloader</td>
+    <td align="center">AIMP</td>
+    <td align="center">Android Studio</td>
+    <td align="center">Avira</td>
+    <td align="center">Bit Torrent</td>
+  </tr>
+
+  <tr>
+    <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/Programs/blender.ico"
+      title="Blender"><img src="./Programs/blender.ico" alt="Blender" width="180"></a></td>
+    <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/Programs/bluestaks.ico"
+      title="Bluestaks"><img src="./Programs/bluestaks.ico" alt="Bluestaks" width="180"></a></td>
+    <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/Programs/camtasia.ico"
+      title="Camtasia"><img src="./Programs/camtasia.ico" alt="Camtasia" width="180"></a></td>
+    <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/Programs/cinema4d.ico"
+      title="Cinema 4D"><img src="./Programs/cinema4d.ico" alt="Cinema 4D" width="180"></a></td>
+    <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/Programs/deluge.ico"
+      title="Deluge"><img src="./Programs/deluge.ico" alt="Deluge" width="180"></a></td>
+  </tr>
+  <tr>
+    <td align="center">Blender</td>
+    <td align="center">Bluestaks</td>
+    <td align="center">Camtasia</td>
+    <td align="center">Cinema 4D</td>
+    <td align="center">Deluge</td>
+  </tr>
+
+  <tr>
+    <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/Programs/discord.ico"
+      title="Discord"><img src="./Programs/discord.ico" alt="Discord" width="180"></a></td>
+    <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/Programs/dropbox.ico"
+      title="Dropbox"><img src="./Programs/dropbox.ico" alt="Dropbox" width="180"></a></td>
+    <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/Programs/eset.ico"
+      title="Eset"><img src="./Programs/eset.ico" alt="Eset" width="180"></a></td>
+    <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/Programs/faceit.ico"
+      title="Faceit"><img src="./Programs/faceit.ico" alt="Faceit" width="180"></a></td>
+    <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/Programs/figma.ico"
+      title="Figma"><img src="./Programs/figma.ico" alt="Figma" width="180"></a></td>
+  </tr>
+  <tr>
+    <td align="center">Discord</td>
+    <td align="center">Dropbox</td>
+    <td align="center">Eset</td>
+    <td align="center">Faceit</td>
+    <td align="center">Figma</td>
+  </tr>
+
+  <tr>
+    <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/Programs/filezilla.ico"
+      title="Filezilla"><img src="./Programs/filezilla.ico" alt="Filezilla" width="180"></a></td>
+    <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/Programs/git.ico"
+      title="git"><img src="./Programs/git.ico" alt="git" width="180"></a></td>
+    <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/Programs/google_disk.ico"
+      title="Google Disk"><img src="./Programs/google_disk.ico" alt="Google Disk" width="180"></a></td>
+    <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/Programs/malwaerbytes.ico"
+      title="Malwaerbytes"><img src="./Programs/malwaerbytes.ico" alt="Malwaerbytes" width="180"></a></td>
+    <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/Programs/mega_dark.ico"
+      title="Mega (dark)"><img src="./Programs/mega_dark.ico" alt="Mega (dark)" width="180"></a></td>
+  </tr>
+  <tr>
+    <td align="center">Filezilla</td>
+    <td align="center">git</td>
+    <td align="center">Google Disk</td>
+    <td align="center">Malwaerbytes</td>
+    <td align="center">Mega (dark)</td>
+  </tr>
+
+  <tr>
+    <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/Programs/mega_light.ico"
+      title="Mega (light)"><img src="./Programs/mega_light.ico" alt="Mega (light)" width="180"></a></td>
+    <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/Programs/megicavoxel.ico"
+      title="Magicalvoxel"><img src="./Programs/megicavoxel.ico" alt="Magicalvoxel" width="180"></a></td>
+    <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/Programs/nox.ico"
+      title="nox"><img src="./Programs/nox.ico" alt="nox" width="180"></a></td>
+    <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/Programs/origin.ico"
+      title="Origin"><img src="./Programs/origin.ico" alt="Origin" width="180"></a></td>
+    <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/Programs/qbtorrent.ico"
+      title="qbtorrent"><img src="./Programs/qbtorrent.ico" alt="qbtorrent" width="180"></a></td>
+  </tr>
+  <tr>
+    <td align="center">Mega (light)</td>
+    <td align="center">Magicalvoxel</td>
+    <td align="center">nox</td>
+    <td align="center">Origin</td>
+    <td align="center">qbtorrent</td>
+  </tr>
+
+  <tr>
+    <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/Programs/sony_vegas.ico"
+      title="Sony Vegas"><img src="./Programs/sony_vegas.ico" alt="Sony Vegas" width="180"></a></td>
+    <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/Programs/spotify.ico"
+      title="Spotify"><img src="./Programs/spotify.ico" alt="Spotify" width="180"></a></td>
+    <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/Programs/steam.ico"
+      title="Steam"><img src="./Programs/steam.ico" alt="Steam" width="180"></a></td>
+    <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/Programs/sublime_text.ico"
+      title="Sublime Text"><img src="./Programs/sublime_text.ico" alt="Sublime Text" width="180"></a></td>
+    <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/Programs/telegram.ico"
+      title="Telegram"><img src="./Programs/telegram.ico" alt="Telegram" width="180"></a></td>
+  </tr>
+  <tr>
+    <td align="center">Sony Vegas</td>
+    <td align="center">Spotify</td>
+    <td align="center">Steam</td>
+    <td align="center">Sublime Text</td>
+    <td align="center">Telegram</td>
+  </tr>
+
+  <tr>
+    <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/Programs/u_torrent.ico"
+      title="uTorrent"><img src="./Programs/u_torrent.ico" alt="uTorrent" width="180"></a></td>
+    <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/Programs/unity.ico"
+      title="Unity"><img src="./Programs/unity.ico" alt="Unity" width="180"></a></td>
+    <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/Programs/zoom.ico"
+      title="Zoom"><img src="./Programs/zoom.ico" alt="Zoom" width="180"></a></td>
+  </tr>
+  <tr>
+    <td align="center">uTorrent</td>
+    <td align="center">Unity</td>
+    <td align="center">Zoom</td>
+  </tr>
+</tbody>
+</table><br>
 
 [:arrow_up:Оглавление](#Оглавление)
 
