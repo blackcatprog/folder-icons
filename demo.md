@@ -195,6 +195,23 @@ _**Кликните на иконку, чтобы скачать её.**_
 [:arrow_up:Оглавление](#Оглавление)
 
 ## Other
+<table>
+<tbody>
+  <tr>
+    <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/Other/dropbox.ico"
+      title="Dropbox"><img src="./Other/dropbox.ico" alt="Dropbox" width="180"></a></td>
+    <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/Other/git.ico"
+      title="git"><img src="./Other/git.ico" alt="git" width="180"></a></td>
+    <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/Other/youtube.ico"
+      title="YouTube"><img src="./Other/youtube.ico" alt="YouTube" width="180"></a></td>
+  </tr>
+  <tr>
+    <td align="center">Dropbox</td>
+    <td align="center">git</td>
+    <td align="center">YouTube</td>
+  </tr>
+</tbody>
+</table>
 
 [:arrow_up:Оглавление](#Оглавление)
 
