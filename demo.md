@@ -211,12 +211,13 @@ _**Кликните на иконку, чтобы скачать её.**_
     <td align="center">YouTube</td>
   </tr>
 </tbody>
-</table>
+</table><br>
 
 [:arrow_up:Оглавление](#Оглавление)
 
 ## Programs
 <table>
+<!-- TODO magicalvoxel; nox; qbtorrent -->
 <tbody>
   <tr>
     <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/Programs/4k_video_downloader.ico"
@@ -357,5 +358,45 @@ _**Кликните на иконку, чтобы скачать её.**_
 [:arrow_up:Оглавление](#Оглавление)
 
 ## System
+<table>
+<tbody>
+  <tr>
+    <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/System/books.ico"
+      title="Books"><img src="./System/books.ico" alt="Books" width="180"></a></td>
+    <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/System/download.ico"
+      title="Download"><img src="./System/download.ico" alt="Download" width="180"></a></td>
+    <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/System/fonts.ico"
+      title="Fonts"><img src="./System/fonts.ico" alt="Fonts" width="180"></a></td>
+    <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/System/games.ico"
+      title="Games"><img src="./System/games.ico" alt="Games" width="180"></a></td>
+    <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/System/images.ico"
+      title="Images"><img src="./System/images.ico" alt="Images" width="180"></a></td>
+  </tr>
+  <tr>
+    <td align="center">Books</td>
+    <td align="center">Download</td>
+    <td align="center">Fonts</td>
+    <td align="center">Games</td>
+    <td align="center">Images</td>
+  </tr>
+
+  <tr>
+    <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/System/music.ico"
+      title="Music"><img src="./System/music.ico" alt="Music" width="180"></a></td>
+    <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/System/settings.ico"
+      title="Settings"><img src="./System/settings.ico" alt="Settings" width="180"></a></td>
+    <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/System/video.ico"
+      title="Video"><img src="./System/video.ico" alt="Video" width="180"></a></td>
+    <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/System/youtube.ico"
+      title="YouTube"><img src="./System/youtube.ico" alt="YouTube" width="180"></a></td>
+  </tr>
+  <tr>
+    <td align="center">Music</td>
+    <td align="center">Settings</td>
+    <td align="center">Video</td>
+    <td align="center">YouTube</td>
+  </tr>
+</tbody>
+</table><br>
 
 [:arrow_up:Оглавление](#Оглавление)
