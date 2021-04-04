@@ -78,6 +78,7 @@ _**Кликните на иконку, чтобы скачать её.**_
       title="Premier Pro"><img src="./Adobe/premier_pro.ico" alt="Premier Pro" width="180"></a></td>
     <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/Adobe/xd.ico"
       title="XD"><img src="./Adobe/xd.ico" alt="XD" width="180"></a></td>
+    <td colspan="3" rowspan="2"></td>
   </tr>
   <tr>
     <td align="center">Premier Pro</td>
@@ -144,6 +145,7 @@ _**Кликните на иконку, чтобы скачать её.**_
       title="PHP"><img src="./Languages Programming/php.ico" alt="PHP" width="180"></a></td>
     <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/Languages%20Programming/python.ico"
       title="Python"><img src="./Languages Programming/python.ico" alt="Python" width="180"></a></td>
+    <td rowspan="2"></td>
   </tr>
   <tr>
     <td align="center">Java Script</td>
@@ -184,6 +186,7 @@ _**Кликните на иконку, чтобы скачать её.**_
       title="OpenSUSE"><img src="./OS/opensuse.ico" alt="OpenSUSE" width="180"></a></td>
     <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/OS/ubuntu.ico"
       title="Ubuntu"><img src="./OS/ubuntu.ico" alt="Ubuntu" width="180"></a></td>
+  <td colspan="3" rowspan="2"></td>
   </tr>
   <tr>
     <td align="center">OpenSUSE</td>
@@ -345,6 +348,7 @@ _**Кликните на иконку, чтобы скачать её.**_
       title="Unity"><img src="./Programs/unity.ico" alt="Unity" width="180"></a></td>
     <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/Programs/zoom.ico"
       title="Zoom"><img src="./Programs/zoom.ico" alt="Zoom" width="180"></a></td>
+    <td colspan="2" rowspan="2"></td>
   </tr>
   <tr>
     <td align="center">uTorrent</td>
@@ -388,6 +392,7 @@ _**Кликните на иконку, чтобы скачать её.**_
       title="Video"><img src="./System/video.ico" alt="Video" width="180"></a></td>
     <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/System/youtube.ico"
       title="YouTube"><img src="./System/youtube.ico" alt="YouTube" width="180"></a></td>
+    <td rowspan="2"></td>
   </tr>
   <tr>
     <td align="center">Music</td>
