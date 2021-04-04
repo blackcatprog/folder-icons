@@ -89,6 +89,26 @@ _**Кликните на иконку, чтобы скачать её.**_
 [:arrow_up:Оглавление](#Оглавление)
 
 ## Games
+<table>
+<tbody>
+  <tr>
+    <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/Games/beamng_drive.ico"
+      title="Beamng Drive"><img src="./Games/beamng_drive.ico" alt="Beamng Drive" width="180"></a></td>
+    <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/Games/dota.ico"
+      title="Dota"><img src="./Games/dota.ico" alt="Dota" width="180"></a></td>
+    <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/Games/rockstar_launcher.ico"
+      title="Rockstar"><img src="./Games/rockstar_launcher.ico" alt="Rockstar" width="180"></a></td>
+    <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/Games/rust.ico"
+      title="Rust"><img src="./Games/rust.ico" alt="Rust" width="180"></a></td>
+  </tr>
+  <tr>
+    <td align="center">Beamng Drive</td>
+    <td align="center">Dota</td>
+    <td align="center">Rockstar</td>
+    <td align="center">Rust</td>
+  </tr>
+</tbody>
+</table><br>
 
 [:arrow_up:Оглавление](#Оглавление)
 
