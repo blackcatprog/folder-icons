@@ -152,11 +152,45 @@ _**Кликните на иконку, чтобы скачать её.**_
     <td align="center">Python</td>
   </tr>
 </tbody>
-</table>
+</table><br>
 
 [:arrow_up:Оглавление](#Оглавление)
 
 ## OS
+<table>
+<tbody>
+  <tr>
+    <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/OS/debian.ico"
+      title="Debian"><img src="./OS/debian.ico" alt="Debian" width="180"></a></td>
+    <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/OS/fedora.ico"
+      title="Fedora"><img src="./OS/fedora.ico" alt="Fedora" width="180"></a></td>
+    <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/OS/kali_linux.ico"
+      title="Kali Linux"><img src="./OS/kali_linux.ico" alt="Kali Linux" width="180"></a></td>
+    <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/OS/kubuntu.ico"
+      title="Kubuntu"><img src="./OS/kubuntu.ico" alt="Kubuntu" width="180"></a></td>
+    <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/OS/linux_mint.ico"
+      title="Linux Mint"><img src="./OS/linux_mint.ico" alt="Linux Mint" width="180"></a></td>
+  </tr>
+  <tr>
+    <td align="center">Debian</td>
+    <td align="center">Fedora</td>
+    <td align="center">Kali Linux</td>
+    <td align="center">Kubuntu</td>
+    <td align="center">Linux Mint</td>
+  </tr>
+
+  <tr>
+    <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/OS/opensuse.ico"
+      title="Opensuse"><img src="./OS/opensuse.ico" alt="Opensuse" width="180"></a></td>
+    <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/OS/ubuntu.ico"
+      title="Ubuntu"><img src="./OS/ubuntu.ico" alt="Ubuntu" width="180"></a></td>
+  </tr>
+  <tr>
+    <td align="center">Opensuse</td>
+    <td align="center">Ubuntu</td>
+  </tr>
+</tbody>
+</table><br>
 
 [:arrow_up:Оглавление](#Оглавление)
 
