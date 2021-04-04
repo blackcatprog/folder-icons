@@ -6,7 +6,7 @@ _**Кликните на иконку, чтобы скачать её.**_
 - [Games](#Games) - иконки папок для игр
 - [Programming Languages](#Programming)  - иконки папок для языков программирования
 - [OS](#OS) - иконки папок для операционных систем
-- [Other](#Other) - иконки папок не относящиеся ни к одной категории
+- [Other](#Other) - иконки папок, не относящиеся ни к одной категории
 - [Programs](#Programs) - иконки папок для программ
 - [System](#System)  - иконки папок для системы
 
@@ -93,7 +93,7 @@ _**Кликните на иконку, чтобы скачать её.**_
 <tbody>
   <tr>
     <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/Games/beamng_drive.ico"
-      title="Beamng Drive"><img src="./Games/beamng_drive.ico" alt="Beamng Drive" width="180"></a></td>
+      title="BeamNG.drive"><img src="./Games/beamng_drive.ico" alt="BeamNG.drive" width="180"></a></td>
     <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/Games/dota.ico"
       title="Dota"><img src="./Games/dota.ico" alt="Dota" width="180"></a></td>
     <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/Games/rockstar_launcher.ico"
@@ -102,7 +102,7 @@ _**Кликните на иконку, чтобы скачать её.**_
       title="Rust"><img src="./Games/rust.ico" alt="Rust" width="180"></a></td>
   </tr>
   <tr>
-    <td align="center">Beamng Drive</td>
+    <td align="center">BeamNG.drive</td>
     <td align="center">Dota</td>
     <td align="center">Rockstar</td>
     <td align="center">Rust</td>
@@ -119,7 +119,7 @@ _**Кликните на иконку, чтобы скачать её.**_
     <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/Languages%20Programming/c.ico"
       title="C"><img src="./Languages Programming/c.ico" alt="C" width="180"></a></td>
     <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/Languages%20Programming/c%23.ico"
-      title="C#"><img src="./Languages Programming/c#.ico" alt="C#" width="180"></a></td>
+      title="C#"><img src="./Languages Programming/c%23.ico" alt="C#" width="180"></a></td>
     <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/Languages%20Programming/c%2B%2B.ico"
       title="C++"><img src="./Languages Programming/c++.ico" alt="C++" width="180"></a></td>
     <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/Languages%20Programming/css.ico"
@@ -181,12 +181,12 @@ _**Кликните на иконку, чтобы скачать её.**_
 
   <tr>
     <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/OS/opensuse.ico"
-      title="Opensuse"><img src="./OS/opensuse.ico" alt="Opensuse" width="180"></a></td>
+      title="OpenSUSE"><img src="./OS/opensuse.ico" alt="OpenSUSE" width="180"></a></td>
     <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/OS/ubuntu.ico"
       title="Ubuntu"><img src="./OS/ubuntu.ico" alt="Ubuntu" width="180"></a></td>
   </tr>
   <tr>
-    <td align="center">Opensuse</td>
+    <td align="center">OpenSUSE</td>
     <td align="center">Ubuntu</td>
   </tr>
 </tbody>
@@ -217,7 +217,6 @@ _**Кликните на иконку, чтобы скачать её.**_
 
 ## Programs
 <table>
-<!-- TODO magicalvoxel; nox; qbtorrent -->
 <tbody>
   <tr>
     <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/Programs/4k_video_downloader.ico"
@@ -225,7 +224,7 @@ _**Кликните на иконку, чтобы скачать её.**_
     <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/Programs/aimp.ico"
       title="AIMP"><img src="./Programs/aimp.ico" alt="AIMP" width="180"></a></td>
     <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/Programs/android_studio.ico"
-      title="Android Studio"><img src="./Programs/android_studio.ico" alt="Android Studio" width="180"></a></td>
+      title="Android Studio"><img src="./Programs/android_studio.png" alt="Android Studio" width="180"></a></td>
     <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/Programs/avira.ico"
       title="Avira"><img src="./Programs/avira.ico" alt="Avira" width="180"></a></td>
     <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/Programs/bit_torrent.ico"
@@ -303,20 +302,20 @@ _**Кликните на иконку, чтобы скачать её.**_
     <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/Programs/mega_light.ico"
       title="Mega (light)"><img src="./Programs/mega_light.ico" alt="Mega (light)" width="180"></a></td>
     <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/Programs/megicavoxel.ico"
-      title="Magicalvoxel"><img src="./Programs/megicavoxel.ico" alt="Magicalvoxel" width="180"></a></td>
+      title="MagicaVoxel"><img src="./Programs/megicavoxel.ico" alt="MagicaVoxel" width="180"></a></td>
     <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/Programs/nox.ico"
-      title="nox"><img src="./Programs/nox.ico" alt="nox" width="180"></a></td>
+      title="Nox"><img src="./Programs/nox.ico" alt="Nox" width="180"></a></td>
     <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/Programs/origin.ico"
       title="Origin"><img src="./Programs/origin.ico" alt="Origin" width="180"></a></td>
     <td><a href="https://raw.githubusercontent.com/blackcatprog/folder_icons/main/Programs/qbtorrent.ico"
-      title="qbtorrent"><img src="./Programs/qbtorrent.ico" alt="qbtorrent" width="180"></a></td>
+      title="qBittorrent"><img src="./Programs/qbtorrent.ico" alt="qBittorrent" width="180"></a></td>
   </tr>
   <tr>
     <td align="center">Mega (light)</td>
-    <td align="center">Magicalvoxel</td>
-    <td align="center">nox</td>
+    <td align="center">MagicaVoxel</td>
+    <td align="center">Nox</td>
     <td align="center">Origin</td>
-    <td align="center">qbtorrent</td>
+    <td align="center">qBittorrent</td>
   </tr>
 
   <tr>
