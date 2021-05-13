@@ -1,7 +1,7 @@
 <h1 align="center">Folders Icons</h1>
 
 <p align="center">
-<a href="https://github.com/blackcatprog/folder_icons/blob/main/LICENSE"><img alt="LICENSE" src="https://img.shields.io/github/license/tjackenpacken/taskbar-groups?style=for-the-badge" height="20"/></a> 
+<a href="https://github.com/blackcatprog/folder_icons/blob/main/LICENSE"><img alt="LICENSE" src="https://img.shields.io/github/license/tjackenpacken/taskbar-groups" height="20"/></a> 
 </p>
 
 <p align="center">
